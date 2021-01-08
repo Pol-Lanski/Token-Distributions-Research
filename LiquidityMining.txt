@@ -1,0 +1,50 @@
+Project, Date
+IDEX, October 2017
+Livepeer, July 2018
+Synthetix, July 2019
+..., ...
+Compound, June 2020
+Balancer, June 2020
+Gnosis, June 2020
+mStable, June 2020
+Ampleforth, June 2020
+Auctus, July 2020
+Yearn, July 2020
+ACDex, July 2020
+Aragon, July 2020
+Rarible, July 2020
+Lima, July 2020
+YFII, July 2020
+Kleros, July 2020
+Pylon, August 2020
+Harvest, August 2020
+Sushiswap, August 2020
+Meter, August 2020
+Value, August 2020
+Curve, August 2020
+YFLink, August 2020
+Based, August 2020
+Yam, August 2020
+Akropolis Dephi, August 2020
+C.R.E.A.M., August 2020
+YFT.finance, August 2020
+dForce, August 2020
+Kimchi, September 2020
+Dodo, September 2020
+Boosted, September 2020
+Shroom.finance, September 2020
+bZx, September 2020
+Swerve, September 2020
+Pickle finance, September 2020
+Universal liquidity token, September 2020
+Cover, September 2020
+Perpetual Protocol, September 2020
+Percent, September 2020
+Uniswap, September 2020
+CoreVault, September 2020
+Hodl Tree, September 2020
+Yield Wars, September 2020
+Holyheld, September 2020
+Lua Swap, September 2020
+APY.Finance, September 2020
+..., ...
